@@ -1,1 +1,1 @@
-# luckybelly-meteor
+# meteor-luckybelly
